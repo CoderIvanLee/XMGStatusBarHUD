@@ -36,6 +36,4 @@
  * 隐藏
  */
 + (void)hide;
-
-+ (void)showXXX;
 @end
