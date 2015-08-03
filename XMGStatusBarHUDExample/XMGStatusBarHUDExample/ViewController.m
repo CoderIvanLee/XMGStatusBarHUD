@@ -27,7 +27,7 @@
 
     [super viewDidLoad];
     
-    // fhjsdhfsduhfuhiuhi
+    // 少了一个很重要的方法
 }
 
 - (IBAction)message:(id)sender {
