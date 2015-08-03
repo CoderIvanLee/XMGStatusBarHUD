@@ -15,6 +15,21 @@
 
 @implementation ViewController
 
+- (void)viewDidAppear:(BOOL)animated
+{
+    [super viewDidAppear:animated];
+    
+    
+}
+
+- (void)viewDidLoad
+{
+
+    [super viewDidLoad];
+    
+    // fhjsdhfsduhfuhiuhi
+}
+
 - (IBAction)message:(id)sender {
     [XMGStatusBarHUD showMessage:@"没有什么事!!!!"];
 }
