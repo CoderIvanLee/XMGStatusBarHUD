@@ -145,10 +145,4 @@ static NSTimer *timer_;
         timer_ = nil;
     }];
 }
-
-
-+ (void)showXXX
-{
-    
-}
 @end
